@@ -169,3 +169,15 @@ document.querySelectorAll('img.lightbox').forEach(function (element) {
         lightbox(element.src, element.classList.contains('lightbox-album'));
     })
 });
+// myFunction();
+const myFunction = () => {
+   
+ 
+    
+    // document.querySelectorAll('img.lightbox').forEach(function (element) {
+    //     element.addEventListener('click', function () {
+    //         lightbox(element.src, element.classList.contains('lightbox-album'));
+    //     })
+    // });
+}
+
